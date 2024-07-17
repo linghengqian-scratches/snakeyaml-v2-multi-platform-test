@@ -1,6 +1,6 @@
 # snakeyaml-v2-multi-platform-test
 
-- For https://github.com/apache/shardingsphere/issues/29429 and https://github.com/apache/shardingsphere/pull/28805 .
+- For https://bitbucket.org/snakeyaml/snakeyaml/issues/1093 , https://github.com/apache/shardingsphere/issues/29429 and https://github.com/apache/shardingsphere/pull/28805 .
 
 - Verified unit test under `Ubuntu 22.04.4 LTS` with `Docker Engine` and `SDKMAN!`.
 
